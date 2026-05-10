@@ -30,7 +30,7 @@ I design and build **production automation systems** that replace manual workflo
 | :--- | :--- |
 | **Automation** | n8n (Advanced), Make, Webhooks, API Orchestration, Self-Hosted |
 | **No-Code / Low-Code** | Lark Base, Notion (Database Design), Google Sheets |
-| **Development** | Astro, HTML/CSS, JavaScript, Responsive Design |
+| **Development** | Astro, HTML/CSS, JavaScript, Responsive Design, VS Code + AI-Assisted Dev |
 | **AI & LLM** | LLM API Integration, Prompt Engineering, Bilingual Content Gen |
 | **Data & Analytics** | TwelveData API, Data Cleaning, Excel Automation, Multi-source Sync |
 | **Trading** | Grid Strategies, Risk Management, Exness, Price Action Analysis |
