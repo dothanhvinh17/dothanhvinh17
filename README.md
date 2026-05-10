@@ -83,8 +83,20 @@ I'm looking for **async remote roles** in automation engineering, workflow archi
 
 ---
 
-### 🏷️ Topics
+### 🏷️ Skills
 
+![n8n](https://img.shields.io/badge/n8n-Workflow_Automation-3C4B6B?style=flat-square&logo=n8n&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-Framework-FF5D01?style=flat-square&logo=astro&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-Bot-26A5E4?style=flat-square&logo=telegram&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub-Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-Deploy-000000?style=flat-square&logo=vercel&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-API-000000?style=flat-square&logo=notion&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-AI_Integration-412991?style=flat-square&logo=openai&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Language-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Lark](https://img.shields.io/badge/Lark-Base-3370FF?style=flat-square&logo=lark&logoColor=white)
+![Trading](https://img.shields.io/badge/Trading-Bots-00C853?style=flat-square&logo=bitcoin&logoColor=white)
+
+### 🏷️ Topics
 `n8n` `workflow-automation` `automation-engineer` `lark-base` `astro` `trading-bot` `grid-strategy` `api-integration` `webhook` `telegram-bot` `ai-integration` `llm` `notion-api` `data-pipeline` `sme-automation` `no-code` `low-code` `vercel` `github-actions` `bilingual` `remote-work` `async-communication`
 
 
