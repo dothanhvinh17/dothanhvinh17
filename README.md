@@ -59,7 +59,7 @@ I design and build **production automation systems** that replace manual workflo
 
 | Repository | Description |
 | :--- | :--- |
-| [`idea-hunter`](https://github.com/dothanhvinh17) | Business idea discovery engine with AI scoring — published to n8n community |
+| [`idea-hunter`](https://www.vinhautomation.com/en/tools/ai-hunter/) | Business idea discovery engine with AI scoring — published to n8n community |
 | [`vinhautomation.com`](https://www.vinhautomation.com/en/) | Personal portfolio — Astro, bilingual, auto-published via n8n |
 
 *Private repos available on request for: Lark Base systems, trading bots, enterprise solutions.*
