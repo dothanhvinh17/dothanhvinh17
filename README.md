@@ -79,7 +79,7 @@ I design and build **production automation systems** that replace manual workflo
 I'm looking for **async remote roles** in automation engineering, workflow architecture, or systems building. No video calls needed — all my work speaks through documentation and systems.
 
 - 📧 **Email:** [vinh@vinhautomation.com](mailto:vinh@vinhautomation.com)
-- 💬 **Preferred contact:** Email or Telegram
+- 💬 **Preferred contact:** Email 
 
 ---
 
