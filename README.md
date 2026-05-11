@@ -70,6 +70,7 @@ I design and build **production automation systems** that replace manual workflo
 
 - 📋 **Portfolio:** [vinhautomation.com/portfolio](https://www.vinhautomation.com/portfolio/)
 - 🛠️ **Tools & Workflows:** [vinhautomation.com/en/tools](https://www.vinhautomation.com/en/tools/)
+- 📊 **Notion Dashboard:** [notion.so/Do-Thanh-Vinh](https://www.notion.so/Do-Thanh-Vinh-Kevin-Do-35ce7dab6a308022a996f6231218c3cf)
 - 🌍 **Website:** [vinhautomation.com](https://www.vinhautomation.com/en/)
 
 ---
