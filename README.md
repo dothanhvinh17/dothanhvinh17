@@ -61,6 +61,7 @@ I design and build **production automation systems** that replace manual workflo
 | :--- | :--- |
 | [`idea-hunter`](https://www.vinhautomation.com/en/tools/ai-hunter/) | Business idea discovery engine with AI scoring — published to n8n community |
 | [`vinhautomation.com`](https://www.vinhautomation.com/en/) | Personal portfolio — Astro, bilingual, auto-published via n8n |
+| [`GitHub Knowledge Base`](https://n8n.io/workflows/15570-turn-a-github-knowledge-base-into-a-telegram-rag-bot-with-qwen-via-openrouter/) | Turn a GitHub knowledge base into a Telegram RAG bot with Qwen via OpenRouter |
 
 *Private repos available on request for: Lark Base systems, trading bots, enterprise solutions.*
 
