@@ -99,7 +99,7 @@ I'm looking for **async remote roles** in automation engineering, workflow archi
 ![Trading](https://img.shields.io/badge/Trading-Bots-00C853?style=flat-square&logo=bitcoin&logoColor=white)
 
 ### 🏷️ Topics
-`n8n` `workflow-automation` `automation-engineer` `lark-base` `astro` `trading-bot` `grid-strategy` `api-integration` `webhook` `telegram-bot` `ai-integration` `llm` `notion-api` `data-pipeline` `sme-automation` `no-code` `low-code` `vercel` `github-actions` `bilingual` `remote-work` `async-communication`
+`n8n` `workflow-automation` `automation-engineer` `lark-base` `astro` `trading-bot` `grid-strategy` `api-integration` `webhook` `telegram-bot` `ai-integration` `llm` `notion-api` `data-pipeline` `sme-automation` `no-code` `low-code` `vercel` `github-actions` `bilingual` `remote-work` `async-communication` `cloudflare`
 
 
 <!--
