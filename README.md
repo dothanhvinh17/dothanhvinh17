@@ -2,117 +2,130 @@
 
 ## I'm Do Thanh Vinh (Kevin Do) 👋
 
-🎯 **Automation Engineer & Workflow Architect**
-*"I build systems that run businesses while owners sleep."*
+🎯 **Automation Architect | n8n Verified Creator**  
+*"I design resilient 3-layer systems: Data (LarkBase) → Automation (n8n) → Interface (Astro)."*
 
-🛠️ **n8n** · **Astro** · **LLM APIs** · **Lark Base** · **Trading Systems** · **SME Automation**
+🛠️ **n8n** · **LarkBase** · **Astro** · **Resilient Architecture** · **SME Automation** · **Async Remote**
 
-📍 Ho Chi Minh City, Vietnam | 🕐 GMT+7 | 💬 Async-First Communication
+📍 Ho Chi Minh City, Vietnam | 🕐 GMT+7 | 💬 Text-First Communication (No Calls)
 
----
-
-### 🔥 What I Do
-
-I design and build **production automation systems** that replace manual workflows — from order management to trading intelligence. Every system I build solves a real business problem running in production today.
-
-- 🏭 **SME Operations** — Lark Base order management systems (100+ orders/day)
-- 📈 **Trading Intelligence** — AI-powered market analysis & grid trading bots
-- 🤖 **Workflow Automation** — Complex n8n workflows (20-29 nodes)
-- 📝 **Content Pipelines** — Bilingual auto-publishing (Astro + GitHub + Vercel)
-- 🧹 **Data Processing** — AI-powered data cleaning & transformation
-- 💡 **Business Intelligence** — Idea discovery engines with AI scoring
+[![n8n Verified Creator](https://img.shields.io/badge/n8n-Verified_Creator-FF6D5A?style=flat-square&logo=n8n&logoColor=white)](https://n8n.io/creators/dothanhvinh/)
 
 ---
 
-### 🛠️ Tech Stack
+### 🔥 Core Focus: 3-Layer Resilient Architecture
 
-| Category | Tools |
+I design and implement **production-ready automation systems** using a decoupled 3-layer pattern:
+[ Interface Layer ] → [ Automation Layer ] → [ Data Layer ]
+Astro Admin n8n Workflows LarkBase Core
+(Failover UI) (Chat-triggered) (15+ relational tables)
+
+
+Every system I build solves a real business problem and runs in production today:
+
+- 🏭 **F&B Order System** — 3-layer architecture: LarkBase (15+ tables) + n8n (29-node workflow) + Astro Admin (failover) → 100+ orders/day
+- 📈 **Trading Intelligence** — n8n + TwelveData + AI analysis → bilingual Telegram alerts (3x/day)
+- 🤖 **Workflow Templates** — Complex n8n workflows (20-29 nodes), published to n8n community
+- 📝 **Content Pipeline** — Astro + n8n + GitHub → zero-touch bilingual publishing
+- 🧹 **Data Sanitizer** — n8n + AI + Excel → enterprise-grade data cleaning on-demand
+
+---
+
+### 🛠️ Tech Stack (Prioritized)
+
+| Category | Core Tools |
 | :--- | :--- |
-| **Automation** | n8n (Advanced), Make, Webhooks, API Orchestration, Self-Hosted |
-| **No-Code / Low-Code** | Lark Base, Notion (Database Design), Google Sheets |
-| **Development** | Astro, HTML/CSS, JavaScript, Responsive Design, VS Code + AI-Assisted Dev |
-| **AI & LLM** | LLM API Integration, Prompt Engineering, Bilingual Content Gen |
-| **Data & Analytics** | TwelveData API, Data Cleaning, Excel Automation, Multi-source Sync |
-| **Trading** | Grid Strategies, Risk Management, Exness, Price Action Analysis |
-| **Messaging & Bots** | Telegram Bot API, Lark Messenger, Webhook Architecture |
-| **Infrastructure** | GitHub, Vercel (CI/CD), Docker, n8n Self-Hosted |
+| **Architecture Pattern** | 3-Layer Decoupled Design (Data → Automation → Interface) |
+| **Automation** | n8n (Advanced, Verified Creator), Webhooks, API Orchestration, Self-Hosted |
+| **Data Layer** | LarkBase (Relational, Multi-table), Notion (Structured DB), Google Sheets |
+| **Interface Layer** | Astro (SSG, Edge), Tailwind CSS v4, Responsive Design, Cloudflare Pages |
+| **AI Integration** | LLM APIs (OpenRouter), Prompt Engineering, Bilingual Content Generation |
+| **Messaging** | Lark Messenger, Telegram Bot API, Webhook-driven Notifications |
+| **Infrastructure** | GitHub (CI/CD), Cloudflare Pages (Free Tier), Docker, Self-Hosted n8n |
 | **Languages** | Vietnamese (Native), English (Written — Professional), Chinese (Basic) |
 
 ---
 
 ### 📊 Production Systems Running Today
 
-| System | Tech | Scale |
+| System | Architecture | Scale / Impact |
 | :--- | :--- | :--- |
-| Order Management (SME) | n8n + Lark Base + Lark Messenger | 100+ orders/day |
-| Gold Market Analysis | n8n + TwelveData + AI + Telegram | 3x daily, bilingual |
-| Idea Hunter (EN + CN) | n8n + AI + Notion + Telegram | 20+ nodes, published to community |
-| Auto Content Pipeline | n8n + Astro + GitHub + Vercel | Zero-touch publishing |
-| Grid Trading Bot | Custom + n8n signal analysis | Live capital, 10-tier architecture |
-| Data Sanitizer | n8n + AI + Telegram + Excel | Enterprise on-demand |
+| **F&B Order Management** | LarkBase + n8n (29 nodes) + Astro Admin | 100+ orders/day, 90% manual reduction |
+| **Gold Market Analyzer** | n8n + TwelveData + AI + Telegram | 3x daily bilingual reports |
+| **Idea Hunter Engine** | n8n (20+ nodes) + AI + Notion + Telegram | Published to n8n community |
+| **Auto Content Pipeline** | n8n + Astro + GitHub + Cloudflare | Zero-touch bilingual publishing |
+| **Grid Trading Bot** | Custom logic + n8n signal analysis | Live capital, 10-tier risk management |
+| **Data Sanitizer Pro** | n8n + AI + Telegram + Excel | Enterprise on-demand cleaning |
 
 ---
 
 ### 📂 Featured Repositories
 
-> ⭐ Star / Watch repos that interest you — I publish templates and demos regularly.
+> ⭐ Star repos that interest you — I publish anonymized templates and demos regularly.
 
 | Repository | Description |
 | :--- | :--- |
+| [`n8n-larkbase-order-workflow`](https://github.com/dothanhvinh17) *(coming soon)* | Anonymized 29-node workflow: chat-triggered order creation with failover design |
+| [`astro-larkbase-admin`](https://github.com/dothanhvinh17) *(coming soon)* | Astro admin UI template: auth, form validation, direct LarkBase sync |
 | [`idea-hunter`](https://www.vinhautomation.com/en/tools/ai-hunter/) | Business idea discovery engine with AI scoring — published to n8n community |
-| [`vinhautomation.com`](https://www.vinhautomation.com/en/) | Personal portfolio — Astro, bilingual, auto-published via n8n |
-| [`GitHub Knowledge Base`](https://n8n.io/workflows/15570-turn-a-github-knowledge-base-into-a-telegram-rag-bot-with-qwen-via-openrouter/) | Turn a GitHub knowledge base into a Telegram RAG bot with Qwen via OpenRouter |
+| [`vinhautomation.com`](https://github.com/dothanhvinh17/vinh-astro) | Personal site: Astro v6, Tailwind v4, bilingual, Cloudflare Pages |
 
-*Private repos available on request for: Lark Base systems, trading bots, enterprise solutions.*
+*Private repos (enterprise implementations) available on request with NDA.*
 
 ---
 
-### 🌐 Portfolio & Live Demos
+### 🌐 Portfolio & Case Studies
 
-- 📋 **Portfolio:** [vinhautomation.com/portfolio](https://www.vinhautomation.com/portfolio/)
+- 🚀 **Featured Projects:** [vinhautomation.com/en/projects](https://www.vinhautomation.com/en/projects/)  
+  *(Includes F&B 3-layer architecture case study)*
 - 🛠️ **Tools & Workflows:** [vinhautomation.com/en/tools](https://www.vinhautomation.com/en/tools/)
-- 📊 **Notion Dashboard:** [notion.so/Do-Thanh-Vinh](https://www.notion.so/Do-Thanh-Vinh-Kevin-Do-35ce7dab6a308022a996f6231218c3cf)
-- 🌍 **Website:** [vinhautomation.com](https://www.vinhautomation.com/en/)
+- 📋 **Architecture Notes:** [Notion Public Page](https://www.notion.so/Do-Thanh-Vinh-Kevin-Do-35ce7dab6a308022a996f6231218c3cf)
+- 🌍 **Main Site:** [vinhautomation.com](https://www.vinhautomation.com/en)
 
 ---
 
-### 📫 Let's Connect
+### 🤝 How I Work (Async-First)
 
-I'm looking for **async remote roles** in automation engineering, workflow architecture, or systems building. No video calls needed — all my work speaks through documentation and systems.
+I specialize in **remote, text-based collaboration** — no video calls required.
+
+- ✅ Clear, documented communication via email/chat
+- ✅ Loom videos for visual demos (when needed)
+- ✅ GitHub issues/PRs for technical discussions
+- ✅ Milestone-based delivery with transparent progress
+- ✅ Timezone-friendly: I respond within 24h (GMT+7)
+
+
+Looking for **async remote collaborations** in:
+- Automation architecture review
+- n8n workflow design & optimization
+- LarkBase schema design
+- Astro frontend for business systems
+
+---
+
+### 📫 Connect
 
 - 📧 **Email:** [vinh@vinhautomation.com](mailto:vinh@vinhautomation.com)
-- 💬 **Preferred contact:** Email 
+- 💬 **LinkedIn:** [linkedin.com/in/dothanhvinh](https://www.linkedin.com/in/dothanhvinh/) *(updating soon)*
+- 🌐 **Website:** [vinhautomation.com](https://www.vinhautomation.com/en)
+
+*Preferred: Start with a brief email describing your use case. I'll respond with relevant examples or a scoped proposal.*
 
 ---
 
 ### 🏷️ Skills
 
-![n8n](https://img.shields.io/badge/n8n-Workflow_Automation-3C4B6B?style=flat-square&logo=n8n&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-Framework-FF5D01?style=flat-square&logo=astro&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram-Bot-26A5E4?style=flat-square&logo=telegram&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub-Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-Deploy-000000?style=flat-square&logo=vercel&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-API-000000?style=flat-square&logo=notion&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM-AI_Integration-412991?style=flat-square&logo=openai&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Language-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Lark](https://img.shields.io/badge/Lark-Base-3370FF?style=flat-square&logo=lark&logoColor=white)
-![Trading](https://img.shields.io/badge/Trading-Bots-00C853?style=flat-square&logo=bitcoin&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-Verified_Creator-FF6D5A?style=flat-square&logo=n8n&logoColor=white)
+![LarkBase](https://img.shields.io/badge/LarkBase-Relational_DB-3370FF?style=flat-square&logo=lark&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-SSG_Framework-FF5D01?style=flat-square&logo=astro&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-Pages-FF5D01?style=flat-square&logo=cloudflare&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-Deployment-000000?style=flat-square&logo=vercel&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-v4-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-Bot_API-26A5E4?style=flat-square&logo=telegram&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Actions-181717?style=flat-square&logo=github&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![AI](https://img.shields.io/badge/AI-LLM_Integration-412991?style=flat-square&logo=openai&logoColor=white)
+![Trading](https://img.shields.io/badge/Trading-System_Design-00C853?style=flat-square&logo=bitcoin&logoColor=white)
 
 ### 🏷️ Topics
-`n8n` `workflow-automation` `automation-engineer` `lark-base` `astro` `trading-bot` `grid-strategy` `api-integration` `webhook` `telegram-bot` `ai-integration` `llm` `notion-api` `data-pipeline` `sme-automation` `no-code` `low-code` `vercel` `github-actions` `bilingual` `remote-work` `async-communication` `cloudflare`
-
-
-<!--
-**dothanhvinh17/dothanhvinh17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`n8n` `larkbase` `astro` `3-layer-architecture` `resilient-systems` `automation-engineer` `workflow-automation` `sme-automation` `async-remote` `text-first` `cloudflare-pages` `tailwindcss-v4` `bilingual` `tech-creator` `case-study` `failover-design` `chat-triggered` `relational-database` `no-code-low-code` `production-systems`
