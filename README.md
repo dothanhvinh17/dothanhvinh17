@@ -23,11 +23,11 @@ Astro Admin n8n Workflows LarkBase Core
 
 Every system I build solves a real business problem and runs in production today:
 
-- 🏭 **F&B Order System** — 3-layer architecture: LarkBase (15+ tables) + n8n (29-node workflow) + Astro Admin (failover) → 100+ orders/day
-- 📈 **Trading Intelligence** — n8n + TwelveData + AI analysis → bilingual Telegram alerts (3x/day)
-- 🤖 **Workflow Templates** — Complex n8n workflows (20-29 nodes), published to n8n community
-- 📝 **Content Pipeline** — Astro + n8n + GitHub → zero-touch bilingual publishing
-- 🧹 **Data Sanitizer** — n8n + AI + Excel → enterprise-grade data cleaning on-demand
+- 🏭 **F&B Order System**: 3-layer architecture: LarkBase (15+ tables) + n8n (29-node workflow) + Astro Admin (failover) → 100+ orders/day
+- 📈 **Trading Intelligence**: n8n + TwelveData + AI analysis → bilingual Telegram alerts (3x/day)
+- 🤖 **Workflow Templates**: Complex n8n workflows (20-29 nodes), published to n8n community
+- 📝 **Content Pipeline**: Astro + n8n + GitHub → zero-touch bilingual publishing
+- 🧹 **Data Sanitizer**: n8n + AI + Excel → enterprise-grade data cleaning on-demand
 
 ---
 
